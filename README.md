@@ -14,7 +14,7 @@ This is a command line app.
 
 **Windows**
 ```bash
-json-to-pg-windows-amd64.exe -folder=postgresql -mongo=postgres://postgres:root@localhost/database?sslmode=disable
+json-to-pg-windows-amd64.exe -folder=backup -postgresql=postgres://postgres:root@localhost/database?sslmode=disable
 ```
 
 **Linux**
