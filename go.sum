@@ -1,0 +1,12 @@
+github.com/DATA-DOG/go-sqlmock v1.3.3 h1:CWUqKXe0s8A2z6qCgkP4Kru7wC11YoAnoupUKFDnH08=
+github.com/DATA-DOG/go-sqlmock v1.3.3/go.mod h1:f/Ixk793poVmq4qj/V1dPUg2JEAKC73Q5eFN3EC/SaM=
+github.com/crossworth/vk-topic-to-json v1.0.0 h1:8DbJ/1W2Wf1G8I3xZmN3VX+0uvEWPnhBEjSIMWccr4o=
+github.com/crossworth/vk-topic-to-json v1.0.0/go.mod h1:JV/I3Mo+G1AGXjigvZ/O8jNyJ+Cusw7AHHcfjEr6UI4=
+github.com/himidori/golang-vk-api v0.0.0-20200201105846-eb215fa12e88 h1:zlJ1geM9sQ+Csd4XSRZEDfJ+533P0l72z/36VAb9kXQ=
+github.com/himidori/golang-vk-api v0.0.0-20200201105846-eb215fa12e88/go.mod h1:Pr+ceG3dOm/e84EMeT9PBDjQ0keC9ZQP/wSrrZawMV0=
+github.com/lib/pq v1.7.0 h1:h93mCPfUSkaul3Ka/VG8uZdmW1uMHDGxzu0NWHuJmHY=
+github.com/lib/pq v1.7.0/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
+github.com/mattn/go-sqlite3 v1.11.0 h1:LDdKkqtYlom37fkvqs8rMPFKAMe8+SgjbwZ6ex1/A/Q=
+github.com/mattn/go-sqlite3 v1.11.0/go.mod h1:FPy6KqzDD04eiIsT53CuJW3U88zkxoIYsOqkbpncsNc=
+github.com/travelaudience/go-sx v1.1.0 h1:/BHpyI2jT28FpTaEPE9iO8WHhzQoB7JQX8sKwSlF3Ns=
+github.com/travelaudience/go-sx v1.1.0/go.mod h1:zZjmeKN7XQjcN+pi5pgcNAqPD9SK5RB85S9rQkao/Cw=
