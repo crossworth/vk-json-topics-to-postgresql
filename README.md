@@ -23,4 +23,4 @@ json-to-pg-linux-amd64 -folder=backup -postgresql=postgres://postgres:root@local
 ```
 
 #### Workers
-This tool will try save/update **10** files at time, you can change this value passing the argumento `--workers=1`.
+This tool will try save/update **10** files at time, you can change this value passing the argument `--workers=1`.
